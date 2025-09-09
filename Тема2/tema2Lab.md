@@ -122,5 +122,9 @@ three = None
 print(str(three))
 
 ```
+Результат.
+
+![lab4](https://github.com/Aganyaz62/Python/blob/main/skriny/lab3.png)
+
 
 
