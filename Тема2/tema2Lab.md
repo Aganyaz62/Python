@@ -28,3 +28,6 @@ print (123)
 print ('123')
 print (1.23)
 ```
+Результат.
+
+!(https://github.com/Aganyaz62/Python/blob/main/skriny/lab1.png)
