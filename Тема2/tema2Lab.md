@@ -290,6 +290,7 @@ print(sentence[:5])
 ![lab10](https://github.com/Aganyaz62/Python/blob/main/skriny/lab10.png)
 
 Выводы.
+
 sentence = 'Hello World': Присваивает переменной sentence строку "Hello World".
 
 print(sentence[1]): Выводит символ, находящийся по индексу 1 в строке sentence (символ "e").
