@@ -124,7 +124,27 @@ print(str(three))
 ```
 Результат.
 
-![lab4](https://github.com/Aganyaz62/Python/blob/main/skriny/lab3.png)
+![lab4](https://github.com/Aganyaz62/Python/blob/main/skriny/lab4.png)
+
+Выводы.
+
+one = 'Hello'  # Присваивает переменной one строку "Hello"
+
+print(bool(one))  # Преобразует строку one в логическое значение (True) и выводит его
+
+
+two = 142  # Присваивает переменной two целое число 142
+
+print(float(two))  # Преобразует целое число two в число с плавающей точкой (142.0) и выводит его
+
+
+three = None  # Присваивает переменной three значение None (отсутствие значения)
+
+print(str(three))  # Преобразует значение None в строку ("None") и выводит его
+
+
+
+
 
 
 
