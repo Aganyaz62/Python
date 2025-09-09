@@ -57,4 +57,5 @@ print(4.85-1.36)
 print(12+4.8-4+4.12)
 ```
 Результат.
-![lab2]
+
+![lab2](https://github.com/Aganyaz62/Python/blob/main/skriny/lab2.png)
